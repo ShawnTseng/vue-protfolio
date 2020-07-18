@@ -1,0 +1,1 @@
+.board{display:flex;flex-flow:row wrap;width:400px;height:400px;align-content:flex-start}.grid{width:33%;height:33%;border:1px solid grey;box-sizing:border-box;font-size:60px;text-align:center;line-height:130px}.info{font-size:40px}h2[data-v-d2ef2e00]{display:inline-block;transition:transform .2s}h2.running[data-v-d2ef2e00]{transform:scale(1.2)}
